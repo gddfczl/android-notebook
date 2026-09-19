@@ -1,0 +1,6 @@
+{
+  "name": "安卓记事本",
+  "description": "简约实用的安卓风格记事本应用，支持便签记录、标题与内容输入、实时搜索与随时编辑。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
